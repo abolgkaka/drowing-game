@@ -1,0 +1,25 @@
+<resources>
+    <color name="bg">#EEF0F4</color>
+    <color name="dark">#1E2128</color>
+    <color name="dark2">#2B2F39</color>
+    <color name="dark3">#373C48</color>
+    <color name="text_main">#23262D</color>
+    <color name="text_light">#96999E</color>
+    <color name="accent_blue">#4187F5</color>
+    <color name="accent_green">#32BE6E</color>
+    <color name="accent_red">#E14650</color>
+    <color name="accent_yellow">#F0BE32</color>
+
+    <color name="palette_black">#14141A</color>
+    <color name="palette_red">#E13741</color>
+    <color name="palette_orange">#F57D23</color>
+    <color name="palette_yellow">#EBBE23</color>
+    <color name="palette_green">#2DBE64</color>
+    <color name="palette_cyan">#23AFCD</color>
+    <color name="palette_blue">#3773EB</color>
+    <color name="palette_purple">#9146D2</color>
+    <color name="palette_pink">#E1419B</color>
+    <color name="palette_brown">#7D4B2D</color>
+    <color name="palette_gray">#6E737D</color>
+    <color name="palette_white">#FFFFFF</color>
+</resources>
